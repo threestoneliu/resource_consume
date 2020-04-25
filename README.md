@@ -1,0 +1,2 @@
+# resource_consume
+用于消耗指定的cpu使用量和内存使用量
